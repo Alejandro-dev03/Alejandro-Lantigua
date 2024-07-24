@@ -2,7 +2,7 @@
 <div align="center">
 
 <center>
-![deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde](https://github.com/user-attachments/assets/5a3a86b8-63b7-4e7d-8a9a-f0af84dc51f9)
+(https://github.com/user-attachments/assets/5a3a86b8-63b7-4e7d-8a9a-f0af84dc51f9)
 
 
   
