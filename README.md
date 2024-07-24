@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy [Alejandro Lantigua] 👋
 
 Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apasionado por la tecnología y la programación.
 
