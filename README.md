@@ -1,7 +1,9 @@
 # Alejandro-Lantigua
 <center>
 # 💫 About Me:
-¡Hola! 👋 Soy un joven de 15 años de la República Dominicana, apasionado por la programación y en constante aprendizaje. Como programador JUNIOR, me encanta resolver problemas y crear soluciones innovadoras a través del código.<br><br>🚀 Habilidades:<br><br>Lenguajes: Java, JavaScript, HTML, CSS<br><br>Intereses: Desarrollo web, inteligencia artificial, y videojuegos<br><br>🌱 Aprendiendo: Actualmente estoy profundizando en el desarrollo de aplicaciones web y explorando el fascinante mundo de la inteligencia artificial.<br><br>🎯 Objetivo: Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos que puedan tener un impacto positivo en la comunidad.<br><br>🔗 Conecta conmigo: Estoy siempre abierto a colaborar y aprender de otros. ¡No dudes en contactarme!<br><br>¡Gracias por visitar mi perfil!
+`¡Hola! 👋 Soy un joven de 15 años de la República Dominicana, apasionado por la programación y en constante aprendizaje. Como programador JUNIOR, me encanta resolver problemas y crear soluciones innovadoras a través del código.<br><br>🚀 Habilidades:<br><br>Lenguajes: Java, JavaScript, HTML, CSS<br><br>Intereses: Desarrollo web, inteligencia artificial, y videojuegos<br><br>🌱 Aprendiendo: Actualmente estoy profundizando en el desarrollo de aplicaciones web y explorando el fascinante mundo de la inteligencia artificial.<br><br>🎯 Objetivo: Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos que puedan tener un impacto positivo en la comunidad.<br><br>🔗 Conecta conmigo: Estoy siempre abierto a colaborar y aprender de otros. ¡No dudes en contactarme!<br><br>¡Gracias por visitar mi perfil!`
+
+
 
 
 ## 🌐 Socials:
