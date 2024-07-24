@@ -1,34 +1,14 @@
 # Alejandro-Lantigua
+<div align="center">
+
 <center>
 # 💫 About Me:
   
 `Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apasionado por la tecnología y la programación. Actualmente estoy profundizando en el desarrollo de aplicaciones web y explorando el fascinante mundo de la inteligencia artificial.<br><br>🎯 Objetivo: Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos que puedan tener un impacto positivo en la comunidad.<br><br>🔗 Conecta conmigo: Estoy siempre abierto a colaborar y aprender de otros. ¡No dudes en contactarme!<br><br>¡Gracias por visitar mi perfil!`
 
-<div align="center">
 
-# Hola, soy [Alejandro Lantigua] 👋
 
-Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apasionado por la tecnología y la programación.
 
-![Coding GIF](https://github.com/tu-usuario/tu-repositorio/raw/main/mi-gif.gif)
-
-🚀 **Lenguajes**:
-- **Python**
-- **JavaScript**
-- **HTML**
-- **CSS**
-
-🌱 **Aprendiendo**:
-- **React**
-- **Node.js**
-- **IA**
-
-🎯 **Objetivo**:
-- Impactar positivamente con soluciones innovadoras
-
-🔗 **¡Conecta conmigo!**
-
-</div>
 
 
 ## 🌐 Socials:
@@ -46,3 +26,4 @@ Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apa
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </center>
+</div>
