@@ -9,6 +9,7 @@
 `Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apasionado por la tecnología y la programación. Actualmente estoy profundizando en el desarrollo de aplicaciones web y explorando el fascinante mundo de la inteligencia artificial.<br><br>🎯 Objetivo: Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos que puedan tener un impacto positivo en la comunidad.<br><br>🔗 Conecta conmigo: Estoy siempre abierto a colaborar y aprender de otros. ¡No dudes en contactarme!<br><br>¡Gracias por visitar mi perfil!`
 
 
+![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/9de8ced1-ca39-4bf9-a818-840f6d429bce)
 
 
 
