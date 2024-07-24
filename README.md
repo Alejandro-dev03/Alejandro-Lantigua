@@ -5,12 +5,10 @@
 
 
 # 💫 About Me:
-  ![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/9de8ced1-ca39-4bf9-a818-840f6d429bce)
-  ![deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde](https://github.com/user-attachments/assets/da4aa9a7-07ff-4b08-8177-a7fe34a0218f)
-
 `Soy un joven de 15 años programador JUNIOR nacido en República Dominicana, apasionado por la tecnología y la programación. Actualmente estoy profundizando en el desarrollo de aplicaciones web y explorando el fascinante mundo de la inteligencia artificial.<br><br>🎯 Objetivo: Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos que puedan tener un impacto positivo en la comunidad.<br><br>🔗 Conecta conmigo: Estoy siempre abierto a colaborar y aprender de otros. ¡No dudes en contactarme!<br><br>¡Gracias por visitar mi perfil!`
 
-
+  ![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/9de8ced1-ca39-4bf9-a818-840f6d429bce)
+  ![hello-world](https://github.com/user-attachments/assets/93de0ae8-8827-4d31-b1d1-d20c2465ecf7)
 
 
 
