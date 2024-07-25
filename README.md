@@ -8,14 +8,14 @@
       <b>
         Hola! 
       <br>
-        Mi nombre es Esteban y soy desarrollador web. 
+        Mi nombre es Alejandro y soy desarrollador web junior. 
       </b>
       <br>
         <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
         <!-- ![]()  -->
       <br>
       <b>
-        ~ Esteban Gonzalez ~
+        ~ Alejandro Lantigua ~
       </b>
     </samp>
   </p>
