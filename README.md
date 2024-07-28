@@ -1,6 +1,7 @@
 # Alejandro-Lantigua
 <div align="justify">
-<image align="center" width="100%" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
+![working-from](https://github.com/user-attachments/assets/5f6ba8ce-d5a5-4675-8b77-9cdf9e0bb413)
+
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
