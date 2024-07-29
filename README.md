@@ -33,9 +33,9 @@
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
        <image width="30"
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.freepik.com/512/4248/4248443.png">
-      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
+      
+
+
    </div> 
 </div>
 <br> <br>
@@ -75,7 +75,7 @@
    <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/a3a5564f-9e93-4df9-a4db-b0a66ebe615e">
     <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/3d95341f-1e34-4086-ab76-a6b29396a76c">
    <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/9300fd68-7dbc-4042-a860-452a6f64e0fe">
-
+<image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
 
  
    </div> 
