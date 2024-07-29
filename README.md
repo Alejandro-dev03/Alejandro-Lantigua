@@ -29,11 +29,14 @@
    <samp><b>[ Backend ]</b></samp>
    <div align="center">
        <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
-       <image width="30"
+         <image width="30"
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.freepik.com/512/4248/4248443.png">
-      
+      <image width="30"
+       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://github.com/user-attachments/assets/8b10ddb7-d7a4-4020-a830-943498f59fef">
+       
+
+
+
 
 
    </div> 
