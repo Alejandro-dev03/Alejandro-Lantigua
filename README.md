@@ -80,6 +80,7 @@
     <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/3d95341f-1e34-4086-ab76-a6b29396a76c">
    <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/9300fd68-7dbc-4042-a860-452a6f64e0fe">
 <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
+  <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/f6500f7c-a17e-46f8-9466-7186f136f4ff">
 
  
    </div> 
