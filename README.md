@@ -8,9 +8,9 @@
   <p align="center">
     <samp>
       <b>
-        Hola! 
+        Hello! 
       <br>
-        Mi nombre es Alejandro y soy desarrollador web junior. 
+       My name is Alejandro and I am a junior web [backend] developer.
       </b>
       <br>
         <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
