@@ -87,7 +87,7 @@
 
 
 <details>
-<summary><samp><b>Más información</b></samp></summary>
+<summary><samp><b>More</b></samp></summary>
 
 <h2></h2><br>
 
