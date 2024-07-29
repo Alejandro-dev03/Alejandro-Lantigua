@@ -94,7 +94,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    Correo electronico [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
+
   </samp>
 </p>
 
