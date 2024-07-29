@@ -57,8 +57,8 @@
 <div align="center">
    <samp><b>[ tools ]</b></samp>
    <div align="center">
-       <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/d8321031-ba97-431d-ab25-26e0ce059e47.png">
-     file:///C:/Users/Aleja/Downloads/tools/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f37363870782d56697375616c5f.png
+       <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/ace29216-0aae-441a-a9b2-db9a1c7369fb">
+   
    </div> 
 </div>
 
