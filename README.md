@@ -47,9 +47,7 @@
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
        <image width="30"
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png">
+ 
    </div> 
 </div>
 
