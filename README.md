@@ -61,8 +61,8 @@
 <div align="center">
    <samp><b>[ Frameworks ]</b></samp>
    <div align="center">
-       <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/4f892d49-016b-4020-8b3e-007107eb0b9d">
-   <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/a42294ab-3974-46a3-815f-c0af154f8810">
+
+ 
     <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://github.com/user-attachments/assets/c4bdc1c8-22cf-420f-b1c1-c082fafb21b3">
 
 
